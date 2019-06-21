@@ -1,0 +1,32 @@
+Welcome to Address Book!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> SEARCH NAME>> Couldn't find the name.
+0 key comparisons were made.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> SEARCH NAME>> bbb : 2222 was found.
+1 key comparisons were made.
+ADDR> SEARCH NAME>> abc : 1234 was found.
+2 key comparisons were made.
+ADDR> SEARCH NAME>> Couldn't find the name.
+2 key comparisons were made.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> SEARCH NAME>> Couldn't find the name.
+3 key comparisons were made.
+ADDR> SEARCH NAME>> Couldn't find the name.
+0 key comparisons were made.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> SEARCH NAME>> Couldn't find the name.
+0 key comparisons were made.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> SEARCH NAME>> Couldn't find the name.
+1 key comparisons were made.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> SEARCH NAME>> Couldn't find the name.
+2 key comparisons were made.
+ADDR> SEARCH NAME>> aag : 1111 was found.
+2 key comparisons were made.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> SEARCH NAME>> Couldn't find the name.
+2 key comparisons were made.
+ADDR> Quitting ... 
