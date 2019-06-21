@@ -1,0 +1,6 @@
+1. Complete search_index() and delete().
+
+2. Duplicate names are allowed.  The function delete(<name>) deletes the fisrt
+   record that matches <name>.
+
+3. Submit backend1.c.
