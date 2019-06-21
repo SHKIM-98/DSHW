@@ -1,0 +1,8 @@
+Welcome to Address Book!
+ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> Can't add.  The name already exists!
+ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> abc : 1234
+bbb : 2222
+ccc : 3333
+ADDR> SEARCH NAME>> Couldn't find the name.
+ADDR> SEARCH NAME>> bbb : 2222 was found.
+ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> Pool is empty. Bye!
